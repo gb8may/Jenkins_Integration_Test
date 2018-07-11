@@ -1,1 +1,2 @@
-Build Test of Jenkins
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="AEM_Test_Git" default="build">
